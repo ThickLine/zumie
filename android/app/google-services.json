@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135566623384",
+    "project_id": "zumie-98c4c",
+    "storage_bucket": "zumie-98c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135566623384:android:bff186f43645bb084446ed",
+        "android_client_info": {
+          "package_name": "com.example.zumie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135566623384-cagikhou65t9tu4sdubqnc7i7ups32lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcqVp-1Vp6uFQA_v6l6qMr_TJUvxbVok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135566623384-cagikhou65t9tu4sdubqnc7i7ups32lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
